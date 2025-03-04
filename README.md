@@ -23,3 +23,19 @@ Acciones No Permitidas. No podrá utilizar YarbisGPT para ninguna actividad ileg
 - La extracción automática o mediante programación de datos o de Output (tal y como dicho término se define más adelante).
 - Manifestar que el Output ha sido generado por el ser humano cuando no haya sido así.
 - Interferir o interrumpir en el servicio de lo que es YarbisGPT, incluyendo eludir cualquier límite o restricción al número de veces que puede enviar solicitudes o mensajes al servidor en un periodo de tiempo determinado o eludir cualquier medida de protección o mitigación de seguridad que pongamos en nuestros Servicios.
+
+# Contenido
+
+Podrá introducir input en los Servicios (el "Input") y obtener output basado en su Input (el "Output") a través de los Servicios. El Input y el Output se denominarán conjuntamente "Contenido". Usted será responsable del Contenido y deberá asegurarse de que no infringe la legislación aplicable o las presentes Condiciones. Usted manifiesta y garantiza que dispone de todos los derechos, licencias y permisos necesarios para introducir Input en nuestros Servicios.
+- La inteligencia artificial y el aprendizaje automático son campos de estudio en rápida evolución. Trabajamos constantemente para mejorar nuestros Servicios y hacerlos más exactos, fiables, seguros y beneficiosos. Dada la naturaleza probabilística del aprendizaje automático, en algunas situaciones el uso de YarbisGPT puede generar Output que no refleje con exactitud personas, lugares o hechos.
+
+Al usar YarbisGPT, estás conciente que:
+- El Output puede no ser siempre exacto. No considere que el Output de nuestros Servicios es la única fuente de información veraz o fáctica, ni un sustituto del asesoramiento profesional.
+- No debes utilizar el Output relativo a una persona para ningún fin que pueda tener un impacto significativo o consecuencias legales para dicha persona, por ejemplo, para tomar decisiones sobre cuestiones financieras, educativas o laborales, decisiones en materia de vivienda y seguros, sobre cuestiones legales o médicas u otras decisiones importantes relacionadas con dicha persona.
+
+# Contacto y comunidad
+
+- 💌 Email: nagsirzz@gmail.com
+- 📸 Instagram: @yarbis.s | @YarbisGPT
+
+"En Yarbis creemos en un mundo donde la inteligencia artificial no es un privilegio, sino una herramienta libre y accesible para todos. Nos esforzamos por ofrecerte el poder de explorar, crear y aprender sin límites ni censura. Desde imágenes hasta texto, pasando por lo que está por venir, Yarbis está aquí para que disfrutes del futuro sin barreras, mientras sea posible. Porque el conocimiento y la creatividad son para todos. Gratis. Sin excusas. Sin límites... hasta que nos obliguen a ponerlos."
