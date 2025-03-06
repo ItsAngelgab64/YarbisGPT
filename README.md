@@ -34,7 +34,7 @@ Acciones No Permitidas. No podrá utilizar YarbisGPT para ninguna actividad ileg
 
 # Propiedad Intelectual
 
-El equipo detrás de YarbisGPT tiene todos los derechos sobre el código, diseño y funcionalidad de esta IA. 
+## El equipo de desarrollo Pyramid Studios tiene todos los derechos sobre el código, diseño y funcionalidad de YarbisGPT y sus servicios.
 
 # Contenido
 
@@ -52,7 +52,7 @@ No se garantiza una disponibilidad ininterrumpida de Yarbis y que pueden ocurrir
 
 # Modificaciones de los términos
 
-- Los Términos de Servicio pueden modificarse en cualquier momento, por lo que estos no son fijos. En tal caso será notificado sobre cambios significativos en estos términos.
+#### Debido a nuestro trabajo de siempre estar mejorando el proyecto y nuestros servicios, es posible que los Términos de Servicio pueden modificarse en cualquier momento, por lo que estos no son fijos. En tal caso será notificado sobre cambios significativos en estos términos con tiempo de antelación antes de entrar en vigor.
 
 # Contacto y comunidad
 
