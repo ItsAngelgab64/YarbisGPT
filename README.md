@@ -1,4 +1,4 @@
-#### TÉRMINOS DE USO DE YARBISGPT 🤖
+# TÉRMINOS DE USO DE YARBISGPT 🤖
 
 ## Este sitio establece los términos y condiciones bajo los cuales usted puede usar esta Inteligencia Artificial y los servicios que ofrece.
 
@@ -47,7 +47,12 @@ Al usar YarbisGPT, estás conciente que:
 
 # Limitación de responsabilidad
 
+No se garantiza una disponibilidad ininterrumpida de Yarbis y que pueden ocurrir interrupciones por mantenimiento u otras razones. En tal caso se le podrá avisar con antelación.
+#### El equipo de Yarbis no se hace responsable de daños directos o indirectos derivados del uso del bot de cualquier tipo, sino que el responsable es del uso que el usuario le haya dado.
 
+# Modificaciones de los términos
+
+- Los Términos de Servicio pueden modificarse en cualquier momento, por lo que estos no son fijos. En tal caso será notificado sobre cambios significativos en estos términos.
 
 # Contacto y comunidad
 
